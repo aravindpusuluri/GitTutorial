@@ -1,0 +1,6 @@
+tensorflow
+*.log
+log.txt
+dir/
+logly
+test.accdb
